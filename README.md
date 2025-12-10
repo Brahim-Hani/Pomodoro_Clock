@@ -37,4 +37,8 @@ How to Use
 - Press the Arduino restart push-button in case of any bugs or problems. 
 The break timer starts automatically.
 
+Happy learning Journey :3
+
+
+
 
