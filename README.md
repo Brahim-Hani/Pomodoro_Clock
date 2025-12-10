@@ -1,7 +1,6 @@
 A simple and customizable Pomodoro Timer built with Arduino. This project helps you stay productive by using the Pomodoro Technique: 25 minutes of focused work followed by a short break (You can change the work/break periods by a keypad).
 
-
-Features
+## Features
 
 - Adjustable work and break durations
 - LCD display showing timer status and total work time
@@ -10,7 +9,7 @@ Features
 - Start/Stop/Reset buttons
 - Low power consumption and sleep modes
 
-Hardware Requirements
+## Hardware Requirements
 
 - Arduino Nano
 - I2C LCD 16x2
@@ -23,7 +22,7 @@ Hardware Requirements
 - +5v Batteries ( 9v Max )
 - ON/OFF Switch
 
-How to Use
+## How to Use
 
 - Power the Arduino from the batteries and turn on the switch.
 - Follow the instructions displayed in the LCD.
@@ -33,11 +32,18 @@ How to Use
 - Press C to restart the timer.
 - Press * to turn the LCD Backlight OFF ( To save power when working ).
 - Press D to turn the LCD Backlight ON.
-- Press the WakeUp push-button if the arduino entered sleep mode.
+- Press the WakeUp push-button if the Arduino entered sleep mode.
 - Press the Arduino restart push-button in case of any bugs or problems. 
 The break timer starts automatically.
 
+## These files are included in the repo :
+
+- Ino file ( In case u want to change the code )
+- Gerber file ( This is the pcb layout )
+- And some screenshots in case u want to recreate the project ( schematics / pcb / and routing ) 
+
 Happy learning Journey :3
+Give it a star on GitHub to support and encourage more Arduino projects!
 
 
 
